@@ -1,0 +1,39 @@
+/*this is a CSS file*/
+
+/* using * applies to everything on the page*/
+
+* {font-family: arial,"brush script MT", sans-serif;}
+
+*{color: blue;}
+
+/*Tell all the h1 tags to follow the below fonts*/
+
+H1{
+	font-family: "COURIER NEW", COURIER, MONOSPACE;
+}
+
+em
+
+{color: green}
+
+em
+
+{color: red;
+}
+
+strong
+{color: magenta;
+}
+
+strong {
+	color: palevioletred; !important;
+}
+	/*change intro text to 120*/
+
+	.intro{font-size:120%}
+	
+	p{
+		font-size: 75%;
+	}
+
+	#special {background-color: yellow;}
